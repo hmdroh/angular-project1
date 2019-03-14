@@ -8,3 +8,11 @@
 .stock-container .name h3, .stock-container .name h4{
     display: inline-block;
 }
+
+.negative{
+    color: red;
+}
+
+.positive{
+ color: green;
+}
